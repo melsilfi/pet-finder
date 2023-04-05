@@ -1,0 +1,24 @@
+.login-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.palette1 {
+/*   tengo que configurar esto en tailwind */
+  color: #04973E;
+  color: #036a43;
+  color: #970491;
+  color: #6a0365;
+  color: #976c04;
+}
+
+.palette2 {
+  color: #04973E;
+  color: #036a43;
+  color: #c1ffe8;
+  color: #83ffd0;
+  color: #ffffff;
+}
